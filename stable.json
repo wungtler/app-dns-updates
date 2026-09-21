@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "channel": "stable",
+  "testEnded": false,
+  "version": "2.5.0",
+  "versionCode": 36,
+  "apkUrl": "https://github.com/wungtler/app-dns-updates/releases/download/v2.5.0/AppDns-2.5.0.apk",
+  "sha256": "98dd85705357d1e4aef329b9446d19afd8919ab73bfd6cd9c4bb4f757a8eed6a",
+  "bytes": 2372356,
+  "notes": "사용 인증 없이 시작, 첫 화면 DNS 응답·오류·TLS 분할 카운터, 앱 내 필수 업데이트. 테스트 종료판 2.9.99 예약(현재 종료 아님). DNS/TLS 전송 유지, 광고 불일치는 조사 중."
+}
