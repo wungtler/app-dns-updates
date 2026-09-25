@@ -2,10 +2,10 @@
   "schema": 1,
   "channel": "stable",
   "testEnded": false,
-  "version": "2.5.8",
-  "versionCode": 45,
-  "apkUrl": "https://github.com/wungtler/app-dns-updates/releases/download/v2.5.8/AppDns-2.5.8.apk",
-  "sha256": "10a8b0d984d44f5f0a6dd5c7f267f4dad43fe50af2979beb5286b14a61ba9413",
+  "version": "2.5.10",
+  "versionCode": 49,
+  "apkUrl": "https://github.com/wungtler/app-dns-updates/releases/download/v2.5.10/AppDns-2.5.10.apk",
+  "sha256": "abbce13d4dac444d94a7569c3e5498e0581090c902e97b863223ebb0dfa48db9",
   "bytes": 2384644,
-  "notes": "선택 앱 DNS 처리 안정화 내용을 일반판에 반영하고 임시 진단을 정리했습니다. 피드백과 TLS(SNI) 기능은 유지합니다."
+  "notes": "기기 다크 모드 가독성을 개선하고 설정에 최근 업데이트 내역을 추가했습니다. 일반판 DNS/TLS 처리는 2.5.8과 동일합니다."
 }
